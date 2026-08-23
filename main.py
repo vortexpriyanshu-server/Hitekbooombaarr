@@ -796,7 +796,6 @@ def user_kb() -> InlineKeyboardMarkup:
         [btn("ʀᴇᴅᴇᴇᴍ", "user:redeem", EMOJI_GIFT, "🎁"), btn("ʀᴇғᴇʀ", "user:refer", EMOJI_STAR, "👥")],
         [btn("sᴛᴀᴛs", "user:stats", EMOJI_STAR, "📊"), btn("ᴍʏ sᴍs ʜɪsᴛᴏʀʏ", "user:sms_history", EMOJI_STAR, "📜")],
         [btn("ʙᴜʏ ᴄʀᴇᴅɪᴛs", "user:pricing", EMOJI_MONEY, "💰")],
-        [btn("ᴛʀᴀɴsғᴇʀ ᴄʀᴇᴅɪᴛs", "user:transfer", EMOJI_MONEY, "💸")],
         [btn("ɪɴғᴏ", "user:info", EMOJI_GEAR, "ℹ️")],
     ])
 
